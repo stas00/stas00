@@ -1,17 +1,14 @@
+# My repositories map
 
-![stas00's github stats](https://github-readme-stats.vercel.app/api?username=stas00&show_icons=true&theme=react&hide_title=false&line_height=22pt)
-
-My repositories map:
-
-Machine Learning:
+🔻 **Machine Learning:**
  [Guides](https://github.com/stas00/toolbox) |
  [ML ways](https://github.com/stas00/ml-ways) |
  [Porting](https://github.com/stas00/porting)
 
-Applications:
+**Applications:**
  [ipyexperiments](https://github.com/stas00/ipyexperiments)
 
-Tools and Cheatsheets:
+**Tools and Cheatsheets:**
  [bash](https://github.com/stas00/bash-tools) |
  [conda](https://github.com/stas00/conda-tools) |
  [git](https://github.com/stas00/git-tools) |
@@ -21,3 +18,7 @@ Tools and Cheatsheets:
  [python](https://github.com/stas00/python-tools) |
  [slurm](https://github.com/stas00/slurm-tools) |
  [tensorboard](https://github.com/stas00/tensorboard-tools)
+
+# Stats
+
+![stas00's github stats](https://github-readme-stats.vercel.app/api?username=stas00&show_icons=true&theme=react&hide_title=false&line_height=22pt)
