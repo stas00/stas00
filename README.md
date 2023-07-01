@@ -11,7 +11,7 @@ Machine Learning:
 Applications:
  [ipyexperiments](https://github.com/stas00/ipyexperiments)
 
-Tools:
+Tools and Cheatsheets:
  [bash](https://github.com/stas00/bash-tools) |
  [conda](https://github.com/stas00/conda-tools) |
  [git](https://github.com/stas00/git-tools) |
