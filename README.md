@@ -1,14 +1,14 @@
 # My repositories map
 
-🔻 **Machine Learning:**
+✔ **Machine Learning:**
  [Guides](https://github.com/stas00/toolbox) |
  [ML ways](https://github.com/stas00/ml-ways) |
  [Porting](https://github.com/stas00/porting)
 
-**Applications:**
+✔ **Applications:**
  [ipyexperiments](https://github.com/stas00/ipyexperiments)
 
-**Tools and Cheatsheets:**
+✔ **Tools and Cheatsheets:**
  [bash](https://github.com/stas00/bash-tools) |
  [conda](https://github.com/stas00/conda-tools) |
  [git](https://github.com/stas00/git-tools) |
