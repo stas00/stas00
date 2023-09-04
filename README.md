@@ -1,7 +1,7 @@
 # My repositories map
 
 ✔ **Machine Learning:**
- [Guides](https://github.com/stas00/toolbox) |
+ [ML Engineering](https://github.com/stas00/ml-engineering) |
  [ML ways](https://github.com/stas00/ml-ways) |
  [Porting](https://github.com/stas00/porting)
 
