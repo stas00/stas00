@@ -17,7 +17,6 @@
  [jupyter-notebook](https://github.com/stas00/jupyter-notebook-tools) |
  [make](https://github.com/stas00/make-tools) |
  [python](https://github.com/stas00/python-tools) |
- [slurm](https://github.com/stas00/slurm-tools) |
  [tensorboard](https://github.com/stas00/tensorboard-tools) |
  [unix](https://github.com/stas00/unix-tools)
 
