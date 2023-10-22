@@ -5,10 +5,11 @@
  [ML ways](https://github.com/stas00/ml-ways) |
  [Porting](https://github.com/stas00/porting)
 
+✔ **Guides:**
+ [The Art of Debugging](https://github.com/stas00/the-art-of-debugging)
 
 ✔ **Applications:**
  [ipyexperiments](https://github.com/stas00/ipyexperiments)
-
 
 ✔ **Tools and Cheatsheets:**
  [bash](https://github.com/stas00/bash-tools) |
