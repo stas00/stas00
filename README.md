@@ -1,7 +1,7 @@
 # My repositories map
 
 ✔ **Machine Learning:**
- [ML Engineering](https://github.com/stas00/ml-engineering) |
+ [ML Engineering Open Book](https://github.com/stas00/ml-engineering) |
  [ML ways](https://github.com/stas00/ml-ways) |
  [Porting](https://github.com/stas00/porting)
 
