@@ -1,12 +1,10 @@
 # My repositories map
 
-✔ **Machine Learning:**
- [ML Engineering Open Book](https://github.com/stas00/ml-engineering) |
- [ML ways](https://github.com/stas00/ml-ways) |
- [Porting](https://github.com/stas00/porting)
 
-✔ **Guides:**
- [The Art of Debugging](https://github.com/stas00/the-art-of-debugging)
+✔ **Books:**
+ [ML Engineering Online Book](https://github.com/stas00/ml-engineering) |
+ [The Art of Debugging](https://github.com/stas00/the-art-of-debugging) |
+ [Stas' Python Cookbook](https://github.com/stas00/python-cookbook) 
 
 ✔ **Applications:**
  [ipyexperiments](https://github.com/stas00/ipyexperiments)
@@ -20,6 +18,10 @@
  [python](https://github.com/stas00/python-tools) |
  [tensorboard](https://github.com/stas00/tensorboard-tools) |
  [unix](https://github.com/stas00/unix-tools)
+
+✔ ** Other Machine Learning:**
+ [ML ways](https://github.com/stas00/ml-ways) |
+ [Porting](https://github.com/stas00/porting)
 
 
 # Stats
