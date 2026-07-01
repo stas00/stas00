@@ -1,7 +1,7 @@
 # My repositories map
 
 
-✔ **Books:**
+✔ **Free Books:**
  [ML Engineering](https://github.com/stas00/ml-engineering) |
  [The Art of Debugging](https://github.com/stas00/the-art-of-debugging) |
  [Stas' Python Cookbook](https://github.com/stas00/python-cookbook) 
